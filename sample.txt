@@ -7,3 +7,4 @@ bathでpush
 test2のブランチで作成
 
 test3で作成
+test4でpull実行
